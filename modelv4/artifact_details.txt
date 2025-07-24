@@ -1,0 +1,42 @@
+=== Model Artifact Details ===
+Saved at: 2025-05-16 22:14:53
+
+Model Features:
+Neck Angle
+Left Upper Arm Angle
+Right Upper Arm Angle
+Left Lower Arm Angle
+Right Lower Arm Angle
+Waist Angle
+Left Leg Angle
+Right Leg Angle
+neck_flex_score
+trunk_flex_score
+upper_arm_score
+lower_arm_score
+leg_score
+activity_score
+Neck Angle_volatility_1s
+Waist Angle_volatility_1s
+Neck Angle_stability_2s
+Waist Angle_stability_2s
+neck_awkward_time_5s
+trunk_awkward_time_5s
+arm_asymmetry
+leg_asymmetry
+imputation_penalty
+
+Core Angles:
+Neck Angle
+Left Upper Arm Angle
+Right Upper Arm Angle
+Left Lower Arm Angle
+Right Lower Arm Angle
+Waist Angle
+Left Leg Angle
+Right Leg Angle
+
+Temporal Parameters:
+Sequence Length: 60
+Static Window: 30
+Max Gap: 30
