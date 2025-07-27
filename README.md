@@ -16,7 +16,6 @@
 
 ---
 
-*Konten selanjutnya hanya merupakan contoh awalan yang baik. Anda dapat berimprovisasi bila diperlukan.*
 
 ## 🛠 Panduan Instalasi & Menjalankan Software  
 
@@ -65,6 +64,7 @@
 ### Option 1: Standalone Analysis (Simplier)
 
 **4a. Jalankan Analisis Lokal**
+- Menyimpan semua foto dan video yang ingin diproses pada folder `test/` lalu jalankann:
 ```bash
 # Test semua file (gambar dan video) di folder test/
 python3 test.py
@@ -72,7 +72,7 @@ python3 test.py
 
 **5a. Hasil Analisis**
 - Script akan memproses semua file di folder `test/`
-- Hasil visualisasi disimpan di folder `test_output_visualizations/`
+- Hasil visualisasi disimpan di folder `test_visualizationsv2/`
 - Hasil JSON dengan detail analisis (REBA score, sudut joint, dll.) tersimpan otomatis
 - File zip berisi semua hasil akan dibuat untuk kemudahan akses
 
